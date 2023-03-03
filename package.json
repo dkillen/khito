@@ -1,0 +1,18 @@
+{
+  "name": "khito",
+  "version": "0.1.0",
+  "description": "Khito is a development environment for building StarkNet dApps in Cairo.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "David Killen",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.14.4",
+    "typescript": "^4.9.5"
+  }
+}
